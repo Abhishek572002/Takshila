@@ -15,3 +15,6 @@ info beforehand in order to get the analysis and result of the quiz.
 The Project is Made by Abhishek , Likhith , Lohith and Prashant with a vision to create better
 education.The people who wanna contact us are welcomed to do so by taking the required info in
 contact page of our website.
+
+
+* Recording of this presentation of Website =  https://drive.google.com/drive/u/0/folders/1JhExDtcQ-YtjvgVETuzeKCxfpEp05w8m
